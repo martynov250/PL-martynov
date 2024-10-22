@@ -18,3 +18,4 @@ for i in range(n):
 
 print ('максимум = ', a,  '   минимум = ', b)
 print (y)
+
