@@ -41,7 +41,7 @@ print(A1)
 
 for i in range(n):
     for j in range(n):
-        if i % 2 == 0:
+        if i % 2 != 0:
             a[i][j] = a[i][j] / A1
 
 print()
